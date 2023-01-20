@@ -36,6 +36,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
+URL for live application: https://alicenouhouemale.github.io/portfolio-react/
+
 ![Screenshot](./src/assets/Screenshot1.png)
 ![Screenshot](./src/assets/Screenshot2.png)
 ![Screenshot](./src/assets/Screenshot3.png)
